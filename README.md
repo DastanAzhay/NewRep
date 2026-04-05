@@ -1,2 +1,0 @@
-"# NewRep" 
-"Hello from ReadME" 
